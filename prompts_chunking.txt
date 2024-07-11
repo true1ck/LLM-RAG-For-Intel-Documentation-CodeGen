@@ -1,0 +1,71 @@
+Day 12
+Main Session
+
+Leetcode Questions Based on class topics
+MaxPathSum : https://leetcode.com/problems/binary-tree-maximum-path-sum/
+Minimum Distance B/w 2 nodes : https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1
+Max Width Binary Tree : https://leetcode.com/problems/maximum-width-of-binary-tree/description/
+PathSum1 : https://leetcode.com/problems/path-sum/description/
+PathSum2 : https://leetcode.com/problems/path-sum-ii/
+PathSum3 : https://leetcode.com/problems/path-sum-iii/
+Requirement : (good to read, will help to understand the above questions better : https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/)
+LCA : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+Symmetric Trees : https://leetcode.com/problems/symmetric-tree/description/
+
+Practice Questions : 
+https://leetcode.com/problems/leaf-similar-trees/
+https://leetcode.com/problems/binary-tree-right-side-view
+https://leetcode.com/problems/house-robber-iii/description/
+https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
+https://leetcode.com/problems/distribute-coins-in-binary-tree/
+https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/
+
+
+Mix Bag Problem Solving
+https://leetcode.com/problems/design-browser-history/ 
+https://leetcode.com/problems/product-of-array-except-self/ 
+https://leetcode.com/problems/daily-temperatures/ 
+https://leetcode.com/problems/max-chunks-to-make-sorted/ 
+https://leetcode.com/problems/number-of-islands/ 
+https://leetcode.com/problems/jump-game/ 
+https://leetcode.com/problems/find-the-town-judge/ 
+https://leetcode.com/problems/lru-cache/ 
+https://leetcode.com/problems/grumpy-bookstore-owner/
+https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/ 
+https://leetcode.com/problems/maximum-sum-circular-subarray/ 
+https://leetcode.com/problems/car-fleet/ 
+https://leetcode.com/problems/max-chunks-to-make-sorted-ii/ 
+https://leetcode.com/problems/jump-game-ii/ 
+https://leetcode.com/problems/merge-intervals/ 
+
+
+Day 13
+[Note : If a binary tree's inorder traversal is sorted, that will imply that the tree is a BST. The proof can be found here {link}. So, the same can be used to validate if a tree is a BST or not.]
+Main Session
+In class : Session 1 (Binary Search Trees)
+
+Code Snippets
+Validate BST : https://pastebin.com/YVKQ1ayQ
+Insert + Search + Delete : https://pastebin.com/6HZcRPMu
+Largest BST in BT : https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/
+Create BST from array : https://pastebin.com/dAAXzzF8
+Minimum Absolute Difference : https://pastebin.com/aMRnu11h
+Kth Smallest : https://pastebin.com/FVkWfpYu
+Closest Node queries in BST : https://pastebin.com/u5XDULtq
+LCA for BST : https://pastebin.com/zQvZ62Ud
+Populate Next Pointer Complete tree : https://pastebin.com/bM2sNiUC
+
+Leetcode Questions based on class topic
+https://leetcode.com/problems/insert-into-a-binary-search-tree/description/
+https://leetcode.com/problems/search-in-a-binary-search-tree/description/
+https://leetcode.com/problems/delete-node-in-a-bst/description/
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+https://leetcode.com/problems/validate-binary-search-tree/
+https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/
+https://www.geeksforgeeks.org/problems/largest-bst/1
+https://www.geeksforgeeks.org/check-if-given-sorted-sub-sequence-exists-in-binary-search-tree/
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
+https://www.interviewbit.com/problems/populate-next-right-pointers-tree/

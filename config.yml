@@ -1,0 +1,15 @@
+RETURN_SOURCE_DOCUMENTS: True
+VECTOR_COUNT: 4
+CHUNK_SIZE: 600
+CHUNK_OVERLAP: 40
+DATA_PATH: 'data/'
+DB_FAISS_PATH: 'vectorstore/db_faiss'
+MODEL_TYPE: 'mistral'
+MODEL_BIN_PATH: 'models/mistral-7b-instruct-v0.1.Q8_0.gguf'
+EMBEDDINGS: 'sentence-transformers/all-mpnet-base-v2'
+TEMPERATURE: 0.01
+CONTEXT_LENGTH: 8192
+RESET: False
+MAX_NEW_TOKENS: 2048
+max_seq_len : 4096
+max_answer_len : 2048
